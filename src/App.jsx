@@ -9,7 +9,7 @@ import Register from "./components/user/Register";
 import BookDetails from "./components/user/BookDetails";
 import Cart from "./components/user/Cart";
 import Payment from "./components/user/Payment";
-
+import { HashRouter } from "react-router-dom";
 import AdminDashboard from "./components/admin/AdminDashboard";
 import AdminBooks from "./components/admin/AdminBooks";
 import AdminUsers from "./components/admin/AdminUsers";
